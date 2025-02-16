@@ -1,4 +1,4 @@
-//BASÝT BÝR ÇARPIM TABLOSU 
+//BASIT BIR Ã‡ARPIM TABLOSU 
 #include<stdio.h>
 #include<stdlib.h>
 int main()
